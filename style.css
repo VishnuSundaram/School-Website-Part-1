@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background: aqua;
+}
+
+#intro {
+    font-size: 25px;
+    font-family: bold;
+    text-align: center;
+}
+#award 1{
+    height:100px;
+    width:100px;
+}
+.img{
+    height:100px;
+    width:100px;
+}
+#rs{
+    height:200px;
+    width:250px;
+}
